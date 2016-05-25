@@ -1,6 +1,6 @@
 # angular-localstorage
 
-Provide read/write access to browser's localStorage.
+Provide read/write access to browsers' localStorage.
 
 ## Install
 

@@ -49,7 +49,7 @@
      * @name $localStorage
      *
      * @description
-     * Provide read/write access to browser's localStorage.
+     * Provide read/write access to browsers' localStorage.
      *
      * @example
      * ```js
