@@ -33,7 +33,7 @@ Add a `<script>` to you `index.html`:
 Then add `ngLocalStorage` as a dependency for you app:
 
 ```js
-angular.module('myApp', ['ngLocalStorage')])
+angular.module('myApp', ['ngLocalStorage'])
 ```
 
 ## Documentation
@@ -57,6 +57,7 @@ _Parameters_
 
 _Returns_
 
+| Type   | Description             |
 |:-------|:------------------------|
 | string | Raw localStorage value. |
 
@@ -73,6 +74,7 @@ _Parameters_
 
 _Returns_
 
+| Type   | Description                      |
 |:-------|:---------------------------------|
 | Object | Deserialized localStorage value. |
 
@@ -88,6 +90,7 @@ _Parameters_
 
 _Returns_
 
+| Type   | Description               |
 |:-------|:--------------------------|
 | Object | All localStorage entries. |
 
