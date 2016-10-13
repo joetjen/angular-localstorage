@@ -1,6 +1,6 @@
 {
   "name": "angular-localstorage",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "description": "Provide read/write access to browsers' localStorage.",
   "authors": [
     "Jan Oetjen <oetjenj@gmail.com>"
